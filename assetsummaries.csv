@@ -1,0 +1,9 @@
+Ticker,Summary,Label,Confidence,URL
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/apples-fundamentals-not-good-analyst-232413699.html
+AAPL,"The Dow is up just shy of 9% this year, while the S&P 500 is up 19%. History suggests investors are over-extended in tech stocks",NEGATIVE,0.9975034594535828,https://finance.yahoo.com/news/dow-trails-sp-500-by-most-since-2000-183654520.html
+AAPL,Study points to rise in ransomware attacks as gangs become more organized. More than 360 million people were affected by attacks in first nine months,NEGATIVE,0.9773145318031311,https://finance.yahoo.com/news/cyberattacks-surge-in-2023-as-millions-fall-victim-to-ransomware-report-160039179.html
+AAPL,"On this week's show, we look at the pros and cons of Manager, HomeKit, and more.",POSITIVE,0.9891034364700317,https://finance.yahoo.com/news/iphone-16-microphones-paranoia-emergency-140713953.html
+AAPL,"Top 75 non-banking stocks held an aggregate of nearly $2.0 trillion. Technology sector companies, and ecommerce companies accounted for biggest share of cash pile",NEGATIVE,0.9287741184234619,https://finance.yahoo.com/news/11-cash-rich-stocks-buy-133519435.html
+TSLA,Musk calls for Disney CEO to be fired. Tesla shares are up more than 20% this year,NEGATIVE,0.685401439666748,https://finance.yahoo.com/news/elon-musks-x-sideshow-is-subtly-hurting-tesla-110444713.html
+TSLA,"The Dow is up just shy of 9% this year, while the S&P 500 is up 19%. History suggests investors are over-extended in tech stocks",NEGATIVE,0.9975034594535828,https://finance.yahoo.com/news/dow-trails-sp-500-by-most-since-2000-183654520.html
+TSLA,Shares of the electric-car maker are trading at about 20 times forward earnings.,NEGATIVE,0.9869842529296875,https://finance.yahoo.com/m/531088bc-67b9-30a7-a7d3-9022fb087082/top-tesla-bull-says-it-s-too.html
